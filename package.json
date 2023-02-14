@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@fullcalendar/daygrid": "4.0.1",
+    "@fullcalendar/interaction": "4.0.2",
+    "@fullcalendar/react": "4.0.2-beta",
+    "@fullcalendar/timegrid": "4.0.1",
+    "react": "16.8.6",
+    "react-big-scheduler": "0.2.7",
+    "react-dnd": "7.4.5",
+    "react-dnd-html5-backend": "7.4.4",
+    "react-dom": "16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@babel/plugin-proposal-class-properties": "7.4.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [],
+  "name": "react-big-scheduler-react",
+  "description": ""
+}
